@@ -2,6 +2,14 @@
 
 Use this tool to search local git working copy directory from git remote value.
 
+## Install
+
+```
+$ curl -s https://raw.githubusercontent.com/harobed/search-local-git-working-copy/master/search-local-git-working-copy.sh > /usr/local/bin/search-local-git-working-copy.sh
+$ chmod u+x /usr/local/bin/search-local-git-working-copy.sh
+$ rehash
+```
+
 ## Usage
 
 ```
