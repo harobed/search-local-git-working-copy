@@ -13,8 +13,8 @@ $ rehash
 ## Usage
 
 ```
-$ search-local-git-working-copy.sh "git@github.com:harobed/search-git-local-repository.git" ~/Work/
-git@github.com:harobed/search-git-local-repository.git found in git remote in this Git working copy:
+$ search-local-git-working-copy.sh "git@github.com:harobed/search-local-git-working-copy.git" ~/Work/
+git@github.com:harobed/search-local-git-working-copy.git found in git remote in this Git working copy:
 
-* /Users/stephane/Work/github.com/harobed/search-git-local-repository/
+* /Users/stephane/Work/github.com/harobed/search-local-git-working-copy/
 ```
